@@ -7,8 +7,8 @@ function Skills({ skills }) {
       titulo: "HTML",
       nives: "HA HA HA",
       tempo: "40meses",
-      color: "blue",
-      ImagemIcone: "/assets/imagem"
+      color: "green",
+      // ImagemIcone: "/assets/imagem"
     },
     {
       titulo: "Node",
